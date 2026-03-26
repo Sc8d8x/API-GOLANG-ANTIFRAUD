@@ -1,0 +1,10 @@
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+.cursor/
+.idea/
+*.log
+.git/
+.gitignore
